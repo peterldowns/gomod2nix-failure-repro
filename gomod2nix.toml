@@ -1,0 +1,30 @@
+schema = 3
+
+[mod]
+  [mod."github.com/go-logr/logr"]
+    version = "v1.2.3"
+    hash = "sha256-2L7k6GfrcW3GXXYr1FYIu20aZBjIF0cTKdte6D4riH8="
+  [mod."github.com/go-logr/stdr"]
+    version = "v1.2.2"
+    hash = "sha256-rRweAP7XIb4egtT1f2gkz4sYOu7LDHmcJ5iNsJUd0sE="
+  [mod."go.opentelemetry.io/otel"]
+    version = "v1.13.0"
+    hash = "sha256-Q7dsv6Rb+9Kkg1D+mI1FkQhRFHIut2R/oTRUt4cizS4="
+  [mod."go.opentelemetry.io/otel/exporters/otlp/otlptrace"]
+    version = "v1.13.0"
+    hash = "sha256-xAXr+wNhi6UxvO3/G/YHrAAc+stpCAmEVROCmNniiWU="
+  [mod."go.opentelemetry.io/otel/sdk"]
+    version = "v1.13.0"
+    hash = "sha256-4gzdquW3wLlNN9HuN6X2ZRxDUuq1O8xViYB+rfEOqFk="
+  [mod."go.opentelemetry.io/otel/trace"]
+    version = "v1.13.0"
+    hash = "sha256-X2uzQfi6j2CiTeGt9lpN/wtood+Jso+ig1NY6KjBTk0="
+  [mod."go.opentelemetry.io/proto/otlp"]
+    version = "v0.19.0"
+    hash = "sha256-yOixDEwd/ZdmT3XcCBGqDc4n0+4bwT7zsXc+ISbFOkI="
+  [mod."golang.org/x/sys"]
+    version = "v0.5.0"
+    hash = "sha256-0LTr3KeJ1OMQAwYUQo1513dXJtQAJn5Dq8sFkc8ps1U="
+  [mod."google.golang.org/protobuf"]
+    version = "v1.28.1"
+    hash = "sha256-sTJYgvlv5is7vHNxcuigF2lNASp0QonhUgnrguhfHSU="
